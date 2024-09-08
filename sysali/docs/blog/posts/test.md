@@ -9,6 +9,11 @@ tags:
   - hogmanay
   - festive season
 slug: ny-eve
+comments: true
+meta:
+  - title: test
+  - description: سلام
+title: test
 ---
 
 # عالی آقا عالی
