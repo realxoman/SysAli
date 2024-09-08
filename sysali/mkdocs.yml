@@ -1,0 +1,66 @@
+site_name: سیسعلی
+site_url: https://sysali.com
+
+repo_url: https://github.com/realxoman/SysAli
+repo_name: SysAli Docs
+edit_uri: https://github.com/realxoman/SysAli/blob/main/docs/
+
+plugins:
+  - offline
+  - search
+  - blog:
+      blog_toc: true
+      categories_allowed:
+        - Holidays
+        - News
+      pagination_per_page: 5
+      archive_pagination_per_page: 10
+      categories_pagination_per_page: 10
+      draft: true
+  - tags
+
+theme:
+  name: 'material'
+  language: 'fa'
+  direction: 'rtl'
+  palette:
+    primary: 'teal'
+    accent: 'blue'
+  font: false
+  feature:
+    - tabs: true
+  features:
+    - navigation.indexes
+    - navigation.path
+    - navigation.prune
+    - navigation.top
+  logo: assets/white.png
+  favicon: assets/white.png
+  
+
+extra:
+  version:
+    default: stable
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/realxoman/
+      name: Ali Esmaeili Linkedin
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@_sysali
+      name: SysAli Youtube
+    - icon: fontawesome/brands/github
+      link: https://github.com/realxoman/
+      name: SysAli Github
+  homepage: https://sysali.com
+
+copyright: راحت باشید و هرجا دوست داشتید بدون منبع کپی کنید :)
+
+extra_css:
+  - 'stylesheets/extra.css'
+
+nav:
+  - "صفحه‌اصلی": index.md
+  - "بلاگ": blog/index.md
+  - "درباره": about.md
+  - "یوتیوب": "https://youtube.com/@_sysali"
+  - "اینستاگرام": "https://instagram.com/aliesm_com"

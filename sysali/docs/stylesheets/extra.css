@@ -1,0 +1,23 @@
+@font-face {
+	font-family: vazir;
+	src: url("../fonts/Vazir-Medium-FD.woff");
+}
+
+body {
+    font-family: vazir;
+    scroll-behavior: smooth;
+    text-align: justify;
+}
+
+::-webkit-input-placeholder {
+    font-family: vazir;
+}
+::-moz-placeholder {
+    font-family: vazir;
+}
+:-ms-input-placeholder {
+    font-family: vazir;
+}
+::placeholder {
+    font-family: vazir;
+}
