@@ -3,6 +3,14 @@
 	src: url("../fonts/Vazir-Medium-FD.woff");
 }
 
+meta[lang="en"] ~ body {
+    direction: ltr!important;
+  }
+  
+  meta[lang="fa"] ~ body {
+    direction: rtl!important;
+  }
+
 body {
     font-family: vazir;
     scroll-behavior: smooth;
