@@ -1,5 +1,5 @@
-site_name: علی اسمعیلی - SysAli
-site_url: https://sysali.com
+site_name: SysAli
+site_url: https://aliesm.com
 
 repo_url: https://github.com/realxoman/SysAli
 repo_name: SysAli Docs
@@ -50,7 +50,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/realxoman/
       name: SysAli Github
-  homepage: https://sysali.com
+  homepage: https://aliesm.com
   alternate:
     - name: فارسی
       link: /
