@@ -3,12 +3,12 @@ date:
   created: 2025-01-09
   updated: 2025-01-09
 meta:
-  - title: SysAli
-  - description: SysAli
+  - title: Ali Esmaeili
+  - description: Ali Esmaeili
   - lang: "en"
-title: SysAli
+title: Ali Esmaeili
 ---
-# SysAli
+# Ali Esmaeili
 ## About Me
 
 Hi! I’m **Ali Esmaeili**, a tech enthusiast sharing a collection of tutorials, articles, and projects related to technology on this website. You can also check out my YouTube channel [@_sysali](https://www.youtube.com/@_sysali), where I share video tutorials covering programming, software development, and practical tips for entering the world of technology.
